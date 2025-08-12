@@ -7,4 +7,6 @@ div ul li{
     list-style: none;
     font-size: 28px;
     color: white;
+    font-weight: bold;
+    font-style: italic;
 }
