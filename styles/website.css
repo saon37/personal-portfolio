@@ -3,3 +3,8 @@ div{
     padding: 10px;
     margin-bottom: 5px;
 }
+div ul li{
+    list-style: none;
+    font-size: 28px;
+    color: white;
+}
